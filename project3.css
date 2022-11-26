@@ -1,0 +1,107 @@
+#logo{
+	font-size:40px;
+	font-weight:bold;
+	margin-left:20px;
+	margin-top:10px;
+} 
+#sticky{
+	position:sticky;
+	top:0;
+	
+}
+a:hover{
+	color:green;
+}
+#menu{
+	list-style-type:none;
+	text-align:start;
+} 
+.menu1{
+	display:inline-block;
+	margin:10px;
+	padding:10px;
+	margin-top:-200px;
+	font-size:18px;
+	font-weight:bold;
+} 
+a{
+	text-decoration:none;
+	color:white;
+}
+#banner{
+	background-image:url("cloud.jpg");
+	background-size:cover;
+	border:0px solid red;
+	height:600px;
+} 
+#banner1{
+	text-align:center;
+	justify-content:space-around;
+} 	
+span{
+	font-size:20px;
+	font-weight:bold;
+}
+.list{
+	font-size:20px;
+} 
+.fa-solid{
+		font-size:50px;
+		text-align:center;
+} 
+.progress-title h3{
+	font-size:18px;
+	font-weight:700;
+}
+#location{
+	font-size:30px;
+	color:green;
+}
+#email{
+	font-size:30px;
+	color:green;
+}
+#phone{
+	font-size:30px;
+	color:green;
+}
+#linked{
+	font-size:30px;
+	text-align:center;
+	margin-left:60px;
+	padding:60px;
+}
+#fb{
+	font-size:30px;
+	text-align:center;
+	margin-left:60px;
+	padding:60px;
+}
+#tweet{
+	font-size:30px;
+	text-align:center;
+	margin-left:60px;
+	padding:60px;
+}
+#watsapp{
+	font-size:30px;
+	text-align:center;
+	margin-left:60px;
+	padding:60px;
+}
+#insta{
+	font-size:30px;
+	text-align:center;
+	margin-left:60px;
+	padding:60px;
+} 
+#git{
+	font-size:30px;
+	text-align:center;
+	margin-left:60px;
+	padding:60px;
+} 
+.fa-brands{
+	font-size:20px;
+}
+
